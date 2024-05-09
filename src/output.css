@@ -719,6 +719,106 @@ video {
   margin-top: 0.5rem;
 }
 
+.mt-20 {
+  margin-top: 5rem;
+}
+
+.ml-\[50\] {
+  margin-left: 50;
+}
+
+.ml-\[50\%\] {
+  margin-left: 50%;
+}
+
+.ml-\[60\%\] {
+  margin-left: 60%;
+}
+
+.ml-\[70\%\] {
+  margin-left: 70%;
+}
+
+.ml-\[80\%\] {
+  margin-left: 80%;
+}
+
+.ml-\[85\%\] {
+  margin-left: 85%;
+}
+
+.mt-\[\] {
+  margin-top: ;
+}
+
+.mt-\[80\%\] {
+  margin-top: 80%;
+}
+
+.mt-\[40\%\] {
+  margin-top: 40%;
+}
+
+.mt-\[30\%\] {
+  margin-top: 30%;
+}
+
+.mt-\[0\%\] {
+  margin-top: 0%;
+}
+
+.mt-\[20\%\] {
+  margin-top: 20%;
+}
+
+.ml-\[45\%\] {
+  margin-left: 45%;
+}
+
+.-mt-10 {
+  margin-top: -2.5rem;
+}
+
+.-mt-1 {
+  margin-top: -0.25rem;
+}
+
+.-mt-16 {
+  margin-top: -4rem;
+}
+
+.-mt-\[2\] {
+  margin-top: -2;
+}
+
+.-mt-\[20\%\] {
+  margin-top: -20%;
+}
+
+.-mt-\[10\%\] {
+  margin-top: -10%;
+}
+
+.-mt-\[0\%\] {
+  margin-top: -0%;
+}
+
+.-mt-\[13\%\] {
+  margin-top: -13%;
+}
+
+.mt-3 {
+  margin-top: 0.75rem;
+}
+
+.mt-36 {
+  margin-top: 9rem;
+}
+
+.mt-32 {
+  margin-top: 8rem;
+}
+
 .box-border {
   box-sizing: border-box;
 }
@@ -828,6 +928,35 @@ video {
 
 .w-\[weird-and-invalid\] {
   width: weird-and-invalid;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.w-screen {
+  width: 100vw;
+}
+
+.w-max {
+  width: -moz-max-content;
+  width: max-content;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[202px\] {
+  width: 202px;
+}
+
+.w-\[102px\] {
+  width: 102px;
+}
+
+.w-\[152px\] {
+  width: 152px;
 }
 
 .flex-shrink {
@@ -1164,6 +1293,10 @@ video {
   grid-auto-flow: column dense;
 }
 
+.grid-cols-2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
 .flex-row {
   flex-direction: row;
 }
@@ -1346,6 +1479,34 @@ video {
 
 .justify-items-stretch {
   justify-items: stretch;
+}
+
+.gap-5 {
+  gap: 1.25rem;
+}
+
+.gap-\[400px\] {
+  gap: 400px;
+}
+
+.gap-\[800px\] {
+  gap: 800px;
+}
+
+.gap-\[1200px\] {
+  gap: 1200px;
+}
+
+.gap-\[1000px\] {
+  gap: 1000px;
+}
+
+.gap-\[1100px\] {
+  gap: 1100px;
+}
+
+.gap-7 {
+  gap: 1.75rem;
 }
 
 .space-x-2 > :not([hidden]) ~ :not([hidden]) {
@@ -1901,6 +2062,10 @@ video {
 .object-scale-down {
   -o-object-fit: scale-down;
      object-fit: scale-down;
+}
+
+.p-10 {
+  padding: 2.5rem;
 }
 
 .text-left {
