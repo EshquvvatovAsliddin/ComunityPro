@@ -3,7 +3,7 @@
     "tailwindcss": "^3.4.3"
   },
   "name": "hydra",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "tailwind.config.js",
   "devDependencies": {},
   "scripts": {
@@ -11,5 +11,13 @@
   },
   "author": "Asliddin",
   "license": "ISC",
-  "description": ""
+  "description": "Community",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EshquvvatovAsliddin/ComunityPro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EshquvvatovAsliddin/ComunityPro/issues"
+  },
+  "homepage": "https://github.com/EshquvvatovAsliddin/ComunityPro#readme"
 }
